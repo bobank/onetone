@@ -1,0 +1,2 @@
+class Sapat < ApplicationRecord
+end
